@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mehak Agrawal!</h1>
 
-<a href="#" target="blank"><img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="mehakagrawal" height="30" width="40" /></a>
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="mehakagrawal" height="200" width="200"/>
 
 <h4 align="center">Welcome to my profile!</h4>
 
