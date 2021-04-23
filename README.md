@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mehak Agrawal!</h1>
 
-<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="mehakagrawal" height="200" width="200"/>
+![coding-gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <h4 align="center">Welcome to my profile!</h4>
 
