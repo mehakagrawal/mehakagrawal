@@ -1,21 +1,15 @@
 <h1 align="center">Hey 👋, I'm Mehak Agrawal!</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehakagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="mehakagrawal" /> </p>
+- 🌱 I’m currently learning: **Flutter**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehakagrawal" alt="mehakagrawal" /></a> </p>
+- 👯 I’m looking to collaborate on: **Web Development, Python, and Flutter Projects**
 
-<p align="left"> <a href="https://twitter.com/themehakagrawal" target="blank"><img src="https://img.shields.io/twitter/follow/themehakagrawal?logo=twitter&style=for-the-badge" alt="themehakagrawal" /></a> </p>
+- 😄 Pronouns: [she/her]
 
-- 🌱 I’m currently learning **Flutter**
+- 📫 How to reach me: **mehakagrawal04@gmail.com**
 
-- 👯 I’m looking to collaborate on **Web Development, Python, and Flutter Projects**
-
-- 😄 Pronouns [she/her](she/her)
-
-- 📫 How to reach me **mehakagrawal04@gmail.com**
-
-- ⚡ Fun fact **I can laugh at literally anything at anytime**
+- ⚡ Fun fact: **I can laugh at literally anything at anytime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
