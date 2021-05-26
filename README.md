@@ -32,5 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehakagrawal&show_icons=true&locale=en&layout=compact" alt="mehakagrawal" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olj1yc6bitlmf1lxlzd8lscug&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=olj1yc6bitlmf1lxlzd8lscug&redirect=true)
-
