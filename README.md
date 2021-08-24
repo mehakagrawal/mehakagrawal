@@ -2,9 +2,9 @@
 
 <h3 align="center">Welcome to my profile!</h3>
 
-- 🌱 I’m currently learning: **Data Analytics**
+- 🌱 I’m currently learning: **Data Science**
 
-- 👯 I’m looking to collaborate on: **Web Development, Python, and Data Analytics Projects**
+- 👯 I’m looking to collaborate on: **Data Science, Python, and Web Development Projects**
 
 - 😄 Pronouns: [she/her]
 
