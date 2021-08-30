@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Data Science**
 
-- 👯 I’m looking to collaborate on: **Data Science, Python, and Web Development Projects**
+- 👯 I’m open to collaborate on: **Data Science, Python, and Web Development Projects**
 
 - 😄 Pronouns: [she/her]
 
