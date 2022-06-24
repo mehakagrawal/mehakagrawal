@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **mehakagrawal04@gmail.com**
 
-- ⚡ Fun fact: **I can laugh at literally anything at anytime**
+- ⚡ Fun fact: **I forget to turn the switch on after I plug my phone to charge.**
 
 ![coding-gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
