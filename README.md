@@ -32,3 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehakagrawal&show_icons=true&locale=en&layout=compact" alt="mehakagrawal" /></p>
 
+![](https://komarev.com/ghpvc/?username=mehakagrawal&color=ff69b4)
